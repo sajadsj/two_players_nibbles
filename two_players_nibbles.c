@@ -1,3 +1,8 @@
+/*
+ * Title: Two players Nibbles
+ * Project aim: learning arrays and terminal
+ * by: SajadSojoudi@gmail.com
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <windows.h>
